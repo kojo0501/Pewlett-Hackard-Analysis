@@ -29,4 +29,4 @@ An additional helpful query looks which retiring employees worked has worked for
 ![Institutional_Knowledge](https://user-images.githubusercontent.com/24308495/141226050-b5dc91a4-420f-4cd2-a4e5-94b1fdb499db.PNG)
 
 A query that may be helpful to the mentorship program would be to remove the age requirement, and instead focus on employees who have been with the organization for over 10 years. By changing the query so it assesses all employees born on or after 1956, and started prior to 08/01/1992, we find there 77,420 employees within this criteria:
-![better_mentorship](https://user-images.githubusercontent.com/24308495/141227407-50eaa838-a858-4b6a-bfab-a97152dc8474.PNG)
+![better_mentorship](https://user-images.githubusercontent.com/24308495/141227549-e44f683b-b72f-4422-87d9-5554849a62af.PNG)
